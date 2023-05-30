@@ -12,6 +12,12 @@
 * 📫 How to reach me: agnieszka@pawlak.io
 * ⚡ Fun fact: gardening 🍀 and reading books 📚
 
+### Main Skills
+<div>
+  <p>Analitycal thinking</p>
+  <p>Flexibility in learning new skills outside the main spectrup of responsibilities</p> 
+</div>
+
 ### Technical Skills
 <div display="flex" flex-wrap:"wrap" gap="12" style="background-color:#F0F8FF">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -37,7 +43,7 @@
                                                                                                                        
 ### Languages
 <div>
-  <p>English: Intermediate(B2)</p>
+  <p>English: Intermediate</p>
   <p>Polish: Native</p>
 </div>
                                                                                                                         
