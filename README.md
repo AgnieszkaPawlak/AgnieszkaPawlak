@@ -2,8 +2,8 @@
   Hi there,
     <img src="wave.gif"
          alt="Wawing hand"
-         height="50"
-         width"50" />
+         height="40"
+         width"40" />
   I'm Agnieszka.
   </h1>
 
