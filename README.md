@@ -13,7 +13,7 @@
 * ⚡ Hobbies: gardening 🍀 and reading books 📚
 
 ### Main Skills
-* 🧩💡 Analitycal thinking
+* 🧩💡 Programming and analytical thinking
 * 🌱🎯 Flexibility in learning new skills outside the main spectrup of responsibilities
 * 🧠🔍 Self-reliance and scrupulousness
 
