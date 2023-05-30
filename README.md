@@ -12,16 +12,10 @@
 * 📫 How to reach me: agnieszka@pawlak.io
 * ⚡ Hobbies: gardening 🍀 and reading books 📚
 
-
-
 ### Main Skills
-<div>
-  <p>Analitycal thinking</p>
-  <p>Flexibility in learning new skills outside the main spectrup of responsibilities</p>
-  <p>Self-reliance and scrupulousness</p>
-</div>
-
-
+  🧩💡 Analitycal thinking
+  🌱🎯 Flexibility in learning new skills outside the main spectrup of responsibilities
+  🧠🔍 Self-reliance and scrupulousness
 
 ### Technical Skills
 <div display="flex" flex-wrap:"wrap" gap="12" style="background-color:#F0F8FF">
