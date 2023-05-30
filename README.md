@@ -12,12 +12,16 @@
 * 📫 How to reach me: agnieszka@pawlak.io
 * ⚡ Hobbies: gardening 🍀 and reading books 📚
 
+
+
 ### Main Skills
 <div>
   <p>Analitycal thinking</p>
   <p>Flexibility in learning new skills outside the main spectrup of responsibilities</p>
   <p>Self-reliance and scrupulousness</p>
 </div>
+
+
 
 ### Technical Skills
 <div display="flex" flex-wrap:"wrap" gap="12" style="background-color:#F0F8FF">
@@ -41,7 +45,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="45" height="45" />
 </div>
-                                                                                                                       
+              
+              
+              
 ### Languages
 <div>
   <p>English: Intermediate</p>
