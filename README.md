@@ -13,9 +13,9 @@
 * ⚡ Hobbies: gardening 🍀 and reading books 📚
 
 ### Main Skills
-  🧩💡 Analitycal thinking
-  🌱🎯 Flexibility in learning new skills outside the main spectrup of responsibilities
-  🧠🔍 Self-reliance and scrupulousness
+* 🧩💡 Analitycal thinking
+* 🌱🎯 Flexibility in learning new skills outside the main spectrup of responsibilities
+* 🧠🔍 Self-reliance and scrupulousness
 
 ### Technical Skills
 <div display="flex" flex-wrap:"wrap" gap="12" style="background-color:#F0F8FF">
