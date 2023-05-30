@@ -10,12 +10,13 @@
 ### Personal Stuffs
 * 🌱 I’m currently learning Java and Cypress
 * 📫 How to reach me: agnieszka@pawlak.io
-* ⚡ Fun fact: gardening 🍀 and reading books 📚
+* ⚡ Hobbies: gardening 🍀 and reading books 📚
 
 ### Main Skills
 <div>
   <p>Analitycal thinking</p>
-  <p>Flexibility in learning new skills outside the main spectrup of responsibilities</p> 
+  <p>Flexibility in learning new skills outside the main spectrup of responsibilities</p>
+  <p>Self-reliance and scrupulousness</p>
 </div>
 
 ### Technical Skills
