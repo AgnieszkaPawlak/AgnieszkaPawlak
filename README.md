@@ -64,7 +64,9 @@
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="45" height="45" />
   </a>
-
+  <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank" rel="noreferrer">
+    <img src="https://github.com/cypress-io/cypress/blob/develop/assets/cypress-logo-dark.png" alt="cypress" width="45" height="45" />
+  </a>
 
 ### Tools 
 <div display="flex" flex-wrap:"wrap" gap="12" >
