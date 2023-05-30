@@ -13,7 +13,7 @@
 * ⚡ Fun fact: gardening 🍀 and reading books 📚
 
 ### Technical Skills
-<div display="flex" flex-wrap:"wrap">
+<div display="flex" flex-wrap:"wrap" gap="12">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="45" height="45" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45" />
