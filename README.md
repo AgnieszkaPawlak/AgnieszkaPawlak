@@ -18,7 +18,7 @@
 * 🧠🔍 Self-reliance and scrupulousness
 
 ### Technical Skills
-<div display="flex" flex-wrap:"wrap" gap="12" style="background-color:#F0F8FF">
+<div display="flex" flex-wrap:"wrap" gap="12px">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
   </a>
@@ -65,7 +65,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="45" height="45" />
   </a>
   <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank" rel="noreferrer">
-    <img src="https://github.com/cypress-io/cypress/blob/develop/assets/cypress-logo-dark.png" alt="cypress" width="45" height="45" />
+    <img src="https://github.com/cypress-io/cypress/blob/develop/assets/cypress-logo-dark.png" alt="cypress" width="60" height="45" />
   </a>
 
 ### Tools 
