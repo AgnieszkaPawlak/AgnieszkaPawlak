@@ -8,7 +8,7 @@
   </h1>
 
 ### Personal Stuffs
-* 🌱 I’m currently learning Java and Cypress
+* 🌱 I’m currently learning Java
 * 📫 How to reach me: agnieszka@pawlak.io
 * ⚡ Hobbies: gardening 🍀 and reading books 📚
 
