@@ -6,11 +6,16 @@
          width"40" />
   I'm Agnieszka.
   </h1>
+  
+### Portfolio (page under construction)
+https://agnieszka-pawlak-dev.vercel.app
+
 
 ### Personal Stuffs
 * 🌱 I’m currently learning Java
 * 📫 How to reach me: agnieszka@pawlak.io
 * ⚡ Hobbies: gardening 🍀 and reading books 📚
+
 
 ### Main Skills
 * 🧩💡 Programming and analytical thinking
