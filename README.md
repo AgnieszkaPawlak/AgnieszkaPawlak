@@ -89,7 +89,7 @@ https://agnieszka-pawlak-dev.vercel.app
               
 ### Languages
 <div>
-  <p>English: Intermediate</p>
+  <p>English: C1</p>
   <p>Polish: Native</p>
 </div>
                                                                                                                         
