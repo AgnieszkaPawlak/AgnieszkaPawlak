@@ -12,7 +12,6 @@ https://agnieszka-pawlak-dev.vercel.app
 
 
 ### Personal Stuffs
-* 🌱 I’m currently learning Java
 * 📫 How to reach me: agnieszka@pawlak.io
 * ⚡ Hobbies: gardening 🍀 and reading books 📚
 
